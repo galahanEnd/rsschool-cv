@@ -28,6 +28,14 @@ function likes(names) {
   }
 }
 ```
+## __Work Experience__
+There is no developer work experience yet
+
+## __Education__
++ One year as an Electronics Engineer
+
+## __English language__
+B1 -, but I am trying to learn the language by using all available methods right now, such as reading documentation and watching videos in English.
 
 
 
