@@ -1,11 +1,11 @@
 # rsschool-cv
 
-## __Nikita Pikul__
+# Nikita Pikul
 
 ## __Contact information__
 + __Phone__: +375(33)640-40-57
 + __Email__: pensilgoneiv.gmail.com
-+ __GitHub__: galahanEnd
++ __GitHub__: [galahanEnd](https://github.com/galahanEnd)
 + __Diskord-nikname__: Nikita 
 
 ## __About me__
