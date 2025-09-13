@@ -1,5 +1,3 @@
-# rsschool-cv
-
 # Nikita Pikul
 
 ## __Contact information__
