@@ -30,6 +30,7 @@ function likes(names) {
 There is no developer work experience yet
 
 ## __Education__
++ Graduated from BSUIR, Faculty of Information Technology and Management, specializing in radio electronics engineer
 + One year as an Electronics Engineer
 
 ## __English language__
