@@ -4,7 +4,8 @@
 + __Phone__: +375(33)640-40-57
 + __Email__: pensilgoneiv.gmail.com
 + __GitHub__: [galahanEnd](https://github.com/galahanEnd)
-+ __Diskord-nikname__: Nikita 
++ __Diskord-nikname__: Nikita
++ __LinkedIn__: Nikita Pikul 
 
 ## __About me__
 I began studying JavaScript, HTML, and CSS two months ago. Currently working at METZ (V.I. Kozlov). Programming attracts me because it offers constant growth and exciting challenges. I’m curious, learn quickly, and deeply interested in this field. With strong knowledge of math and electronics, and a degree with honors in Industrial Electronics, I bring both technical thinking and enthusiasm for coding.
